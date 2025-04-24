@@ -1,0 +1,23 @@
+# Core dependencies
+transformers
+torch
+llama-index
+llama-cpp-python
+sentence-transformers
+llama-index-embeddings-huggingface
+psycopg2-binary
+sqlalchemy
+llama-index-vector-stores-postgres
+
+# Optional
+tiktoken
+python-dotenv
+
+# Core LlamaIndex packages
+llama-index>=0.10.0  # Base package
+llama-index-core>=0.10.0  # Core functionality
+llama-index-llms-llama-cpp>=0.4.0  # For LlamaCPP integration
+
+# Utilities
+numpy>=1.26.4  # Required by various dependencies
+tqdm>=4.66.2  # For progress bars 

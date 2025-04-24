@@ -1,0 +1,19 @@
+# Core dependencies
+transformers>=4.37.0
+torch>=2.1.0
+llama-index>=0.9.48
+llama-index-core>=0.9.48
+llama-cpp-python>=0.2.23
+sentence-transformers>=2.2.2
+llama-index-embeddings-huggingface>=0.1.0
+
+# PostgreSQL support (for llama_rag_system_psql.py)
+psycopg2-binary>=3.2.0
+sqlalchemy>=2.0.27
+llama-index-vector-stores-postgres>=0.1.0
+
+# Optional utilities
+tiktoken>=0.5.2
+python-dotenv>=1.0.0
+pathlib>=1.0.1
+tqdm>=4.65.0

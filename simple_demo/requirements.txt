@@ -1,0 +1,8 @@
+# Core LlamaIndex packages
+llama-index>=0.9.48
+llama-index-core>=0.9.48
+llama-index-readers-file>=0.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pathlib>=1.0.1

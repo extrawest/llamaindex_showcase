@@ -1,0 +1,16 @@
+# Core LlamaIndex packages
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+llama-index-readers-file>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+llama-index-agent-openai>=0.1.0
+llama-index-llms-openai>=0.1.0
+llama-index-question-gen-openai>=0.1.0
+
+# Data processing
+unstructured>=0.10.0
+python-dotenv>=1.0.0
+
+# Utilities
+tqdm>=4.66.2
+numpy>=1.26.4 
