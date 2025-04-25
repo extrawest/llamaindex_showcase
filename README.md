@@ -1,5 +1,11 @@
 # 🦙 LlamaIndex Tutorials Collection
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+[![Maintainer](https://img.shields.io/static/v1?label=Yevhen%20Ruban&message=Maintainer&color=red)](mailto:yevhen.ruban@extrawest.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
+
 This repository contains a collection of demonstration projects showcasing various capabilities and applications of LlamaIndex, a powerful data framework for building LLM applications with custom data. Each tutorial focuses on a specific aspect of LlamaIndex functionality, ranging from basic usage to advanced features like RAG (Retrieval Augmented Generation), chatbots, and function-calling agents.
 
 ## 📚 Tutorials Overview
