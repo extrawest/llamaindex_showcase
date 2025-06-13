@@ -223,3 +223,5 @@ python-dotenv
 - The tutorials incrementally increase in complexity from simple_demo to function_calling.
 - You can modify the code to use different models or data sources based on your needs.
 - For the best experience, follow the tutorials in order to build a comprehensive understanding of LlamaIndex capabilities.
+
+Developed by [extrawest](https://extrawest.com/). Software development company
